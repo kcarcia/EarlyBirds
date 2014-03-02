@@ -120,8 +120,8 @@ div#labInfo{
 }
 
 /* Placeholder for tabs */
-div#tabs{
-	background-color: #f7d708; /* yellow */
+div#tabs2{
+	background-color: white; /* yellow */
 	height: 346px;
 	width: 996px;
 	margin: 0px 35px 0px 35px;
@@ -130,6 +130,7 @@ div#tabs{
 /* Div for labs hints */
 div#labHelp{
 	width: 996px;
+	height: 124px;
 	background-color: #4fb2d1; /* light blue */
 	margin: 0px 35px 0px 35px;
 	position: relative;
